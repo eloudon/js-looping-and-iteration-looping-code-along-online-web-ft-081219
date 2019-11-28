@@ -5,6 +5,9 @@ function writeCards( arrayNames, birthday ) {
   }
   return thankYou
 }
+
+
+
   function countDown (i) {
       while (i>-1) {
           console.log(i--);
